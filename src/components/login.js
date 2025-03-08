@@ -42,7 +42,7 @@ export function Login() {
       {/* Header */}
       <div className="logintopbar">
         <EmojiEventsOutlinedIcon style={{ marginRight: '1vw' }} />
-        <span style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Dream 11</span>
+        <span style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Wonderwin by LNGT</span>
       </div>
 
       {/* Login Form Section */}
