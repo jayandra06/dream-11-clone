@@ -77,7 +77,7 @@ function getfrontendurl() {
   if (current == 'local') {
     return 'http://localhost:3000';
   }
-  return 'https://dream-11-clone-mern-stack.vercel.app';
+  return 'https://dream-11-clone-psi.vercel.app';
 }
 
 export const URL = geturl();
