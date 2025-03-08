@@ -131,7 +131,7 @@ export function Navbar({ home }) {
         </Account>
         <Center>
           <EmojiIcon />
-          Power11
+          WonderWin
         </Center>
         <RightSide>
           <NotificationAddOutlinedIcon
