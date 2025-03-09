@@ -63,7 +63,7 @@ function geturl() {
   }
   // return "https://dreamelevenclonebackend-7l34.onrender.com";
   //return "https://dreamelevenclonebackend-1v8e.onrender.com";
-  return "https://mydream11.duckdns.org";
+  return "https://dream11-clone-backend.vercel.app/";
   // return "https://thepowerplay11-env.eba-ev2x8aa4.ap-south-1.elasticbeanstalk.com";
   // return "http://35.78.205.163";
   // return "http://dream-env.eba-6d6ds7up.us-east-1.elasticbeanstalk.com";
@@ -77,7 +77,7 @@ function getfrontendurl() {
   if (current == 'local') {
     return 'http://localhost:3000';
   }
-  return 'https://dream-11-clone-psi.vercel.app';
+  return 'https://wonderwin.leonxtgentech.com';
 }
 
 export const URL = geturl();
